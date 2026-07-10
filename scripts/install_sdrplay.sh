@@ -6,7 +6,7 @@
 
 set -e
 
-INSTALLER_DIR="$(cd "$(dirname "$0")"/../installers && pwd)"
+INSTALLER_DIR="$(cd "$(dirname "$0")"/../Installers && pwd)"
 
 echo "======================================"
 echo " Installing SDRplay API"
